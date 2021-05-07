@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Yang Ran",
+    "description": "",
+    "home_page_url": "https://a916791360.github.io/gh-pages",
+    "feed_url": "https://a916791360.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "杨冉"
+    },
+    "items": [
+        {
+            "id": "https://a916791360.github.io/gh-pages/yang-ran-zuo-pin-ji.html",
+            "url": "https://a916791360.github.io/gh-pages/yang-ran-zuo-pin-ji.html",
+            "title": "Yang Ran",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://a916791360.github.io/gh-pages/media/posts/1/1_Feng-Mian-2.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://a916791360.github.io/gh-pages/media/posts/1/responsive/1_Feng-Mian-2-xs.png 300w ,https://a916791360.github.io/gh-pages/media/posts/1/responsive/1_Feng-Mian-2-sm.png 480w ,https://a916791360.github.io/gh-pages/media/posts/1/responsive/1_Feng-Mian-2-md.png 768w ,https://a916791360.github.io/gh-pages/media/posts/1/responsive/1_Feng-Mian-2-lg.png 1024w ,https://a916791360.github.io/gh-pages/media/posts/1/responsive/1_Feng-Mian-2-xl.png 1360w ,https://a916791360.github.io/gh-pages/media/posts/1/responsive/1_Feng-Mian-2-2xl.png 1600w\"  alt=\"\" width=\"1440\" height=\"800\"></figure>",
+            "author": {
+                "name": "杨冉"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-07T14:05:37+08:00",
+            "date_modified": "2021-05-07T14:27:32+08:00"
+        }
+    ]
+}
